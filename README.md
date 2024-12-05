@@ -28,45 +28,9 @@ Languages and Tools:
                 alt="terminal"
                 height="40"
             /></a>
-            <a
-              href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality."
-              target="_blank"
-              ><img
-                style="margin: 10px"
-                src="https://www.amigoscode.com/assets/tech-stack/spring-boot.png"
-                alt="Spring boot"
-                height="40"
-            /></a>
-            <a
-              href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality."
-              target="_blank"
-              ><img
-                style="margin: 10px"
-                src="https://www.amigoscode.com/assets/tech-stack/spring.png"
-                alt="Spring "
-                height="40"
-            /></a>
-            <a href="https://www.postgresql.org/" target="_blank"
-              ><img
-                style="margin: 10px"
-                src="https://www.amigoscode.com/assets/tech-stack/postgres.png"
-                alt="PostgreSQL"
-                height="40"
-            /></a>
-            <a href="https://flywaydb.org/" target="_blank"
-              ><img
-                style="margin: 10px"
-                src="https://www.amigoscode.com/assets/tech-stack/flyway.png"
-                alt="Flaywaydb"
-                height="40"
-            /></a>
-            <a href="https://kafka.apache.org/" target="_blank"
-              ><img
-                style="margin: 10px"
-                src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg"
-                alt="Kafka"
-                height="40"
-            /></a>
+            
+           
+          
             <a href="https://www.javascript.com/" target="_blank"
               ><img
                 style="margin: 10px"
@@ -95,6 +59,14 @@ Languages and Tools:
                 alt="Express.js"
                 height="40"
             /></a>
+             <a href="https://www.postgresql.org/" target="_blank"
+              ><img
+                style="margin: 10px"
+                src="https://www.amigoscode.com/assets/tech-stack/postgres.png"
+                alt="PostgreSQL"
+                height="40"
+            /></a>
+           
             <a href="https://www.mongodb.com/" target="_blank"
               ><img
                 style="margin: 10px"
@@ -188,27 +160,9 @@ Languages and Tools:
                 alt="Docker"
                 height="40"
             /></a>
-            <a href="https://kubernetes.io/" target="_blank"
-              ><img
-                style="margin: 10px"
-                src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg"
-                alt="Kubernetes"
-                height="40"
-            /></a>
-            <a href="https://aws.amazon.com/" target="_blank"
-              ><img
-                style="margin: 10px"
-                src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg"
-                alt="AWS"
-                height="40"
-            /></a>
-            <a href="https://azure.microsoft.com/en-in/" target="_blank"
-              ><img
-                style="margin: 10px"
-                src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg"
-                alt="Azure"
-                height="40"
-            /></a>
+          
+          
+            
             <a href="https://azure.microsoft.com/en-in/" target="_blank"
               ><img
                 style="margin: 10px"
