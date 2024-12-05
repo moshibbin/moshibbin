@@ -1,15 +1,13 @@
 <div align="center">
 <img src="https://camo.githubusercontent.com/668b6f79fb45ad87f3f361187361ad03268de2bd77ed4f557481eb5e897feff8/68747470733a2f2f74332e667463646e2e6e65742f6a70672f30332f31382f36302f36322f3336305f465f3331383630363231375f486b386a6f324d566f49333353514f6b5972664f463932394a374a67495030502e6a7067" align="center" style="width: 100%" />
-</div>  
-  
+</div>
 
-### <div align="center">Hi 👋, I'm Mohamed Ibrahim, a full-time Software developer 👨‍💻 working  freelancing developer  and outsourcing 🚀</div>  
-  
+### <div align="center">Hi 👋, I'm Mohamed Ibrahim, a full-time Software developer 👨‍💻 working freelancing developer and outsourcing 🚀</div>
 
-<br/>  
-
+<br/>
 
 Languages and Tools:
+
   <table>
       <tr>
         <td valign="top" width="100%">
@@ -28,9 +26,6 @@ Languages and Tools:
                 alt="terminal"
                 height="40"
             /></a>
-            
-           
-          
             <a href="https://www.javascript.com/" target="_blank"
               ><img
                 style="margin: 10px"
@@ -66,7 +61,6 @@ Languages and Tools:
                 alt="PostgreSQL"
                 height="40"
             /></a>
-           
             <a href="https://www.mongodb.com/" target="_blank"
               ><img
                 style="margin: 10px"
@@ -160,9 +154,6 @@ Languages and Tools:
                 alt="Docker"
                 height="40"
             /></a>
-          
-          
-            
             <a href="https://azure.microsoft.com/en-in/" target="_blank"
               ><img
                 style="margin: 10px"
@@ -188,10 +179,10 @@ Languages and Tools:
         </td>
       </tr>
     </table>
-<br/>  
+<br/>
 
+## Connect with me
 
-## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/mahamet-ibrahim-shibbin-4a84b9220" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -202,10 +193,8 @@ Languages and Tools:
 <a href="https://instagram.com/moshibbin" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
-<br/>  
+<br/>
 
-
-<br/>  
+<br/>
